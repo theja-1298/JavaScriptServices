@@ -4,6 +4,7 @@
   "toolsets": {
     "nodejs": {
       "required": true,
+      "required":false, 
       "minVersion": "6.9"
     }
   }
